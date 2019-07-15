@@ -5,7 +5,7 @@ Creator: Zihao Liu
 Description
 ---------------------------------------------------
 
-JFrames is an light weighted open source Java images/video processing library for developers who worked with frame by frame image processing with videos in java. Some of the techniques includes changing image from RGB color space to other color space such as YUV, motion tracking between consecutive video frames, and calculating correlation between images' color space.
+JFrames is a lightweight open source Java images/video processing library for developers who worked with frame by frame image processing with videos in java. Some of the techniques includes changing image from RGB color space to other color space such as YUV, motion tracking between consecutive video frames, and calculating correlation between images' color space.
 
 I created this project a while back when I was an undergraduate student at UW-Madison. I was working on a related project in computer vision about face blurring that ended up using some modules in this project. If you want to learn more about that project and algorithmic details about frame-by-frame template matching in JFrames, I uploaded those official reports in the report folder.
 
